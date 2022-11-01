@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Features
+
+![image](https://user-images.githubusercontent.com/28759847/199317962-d32188f5-08a5-45f3-ab3c-e4075d0554e0.png)
+
+![image](https://user-images.githubusercontent.com/28759847/199318357-b5e040be-0c13-414f-b046-f783d70b2030.png)
+
+## Missing Features
+
+- Drag and drop
+- Play and stop track
+- Looping functionality:
+    - Change start time
+    - Loop track
+    - Change length
+
+These features are actually quite complex and require significant effort.
+
 ## Available Scripts
 
 In the project directory, you can run:
