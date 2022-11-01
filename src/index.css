@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main_wrap {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.track_list {
+     width: 25%;
+     margin: 5px;
+     padding: 5px;
+     border: 2px solid black;
+     display: flex;
+     flex-direction: column;
+}
+
+.track {
+    margin: 5px;
+    padding: 5px;
+    height: 8%;
+    border: 2px solid green;
+}
+
+.loop-track {
+    margin: 5px;
+    padding: 5px;
+    height: 30%;
+    border: 2px solid blue;
+}
+
+.looperButton {
+    margin: 2px;
+    padding: 2px;
+}
+
+.track_player {
+    width: 75%;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.trackButton {
+    margin: 2px;
+    padding: 2px;
+    float: right;
+}
